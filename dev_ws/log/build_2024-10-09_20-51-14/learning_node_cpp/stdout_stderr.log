@@ -1,0 +1,21 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/node_helloworld_class.dir/src/node_helloworld_class.cpp.o[0m
+[100%] [32m[1mLinking CXX executable node_helloworld_class[0m
+[100%] Built target node_helloworld_class
+-- Install configuration: ""
+-- Installing: /RosDemo/dev_ws/install/learning_node_cpp/lib/learning_node_cpp/node_helloworld_class
+-- Set runtime path of "/RosDemo/dev_ws/install/learning_node_cpp/lib/learning_node_cpp/node_helloworld_class" to ""
+-- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/ament_index/resource_index/package_run_dependencies/learning_node_cpp
+-- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/ament_index/resource_index/parent_prefix_path/learning_node_cpp
+-- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/environment/ament_prefix_path.sh
+-- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/environment/ament_prefix_path.dsv
+-- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/environment/path.sh
+-- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/environment/path.dsv
+-- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/local_setup.bash
+-- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/local_setup.sh
+-- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/local_setup.zsh
+-- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/local_setup.dsv
+-- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/package.dsv
+-- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/ament_index/resource_index/packages/learning_node_cpp
+-- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/cmake/learning_node_cppConfig.cmake
+-- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/cmake/learning_node_cppConfig-version.cmake
+-- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/package.xml

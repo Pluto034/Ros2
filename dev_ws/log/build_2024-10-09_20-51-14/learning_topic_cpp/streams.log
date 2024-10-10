@@ -1,0 +1,30 @@
+[2.247s] Invoking command in '/RosDemo/dev_ws/build/learning_topic_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /RosDemo/dev_ws/build/learning_topic_cpp -- -j16 -l16
+[2.546s] [ 25%] [32mBuilding CXX object CMakeFiles/topic_helloworld_sub.dir/src/topic_helloworld_sub.cpp.o[0m
+[2.546s] [ 50%] [32mBuilding CXX object CMakeFiles/topic_helloworld_pub.dir/src/topic_helloworld_pub.cpp.o[0m
+[7.492s] [ 75%] [32m[1mLinking CXX executable topic_helloworld_pub[0m
+[7.792s] [ 75%] Built target topic_helloworld_pub
+[10.583s] [100%] [32m[1mLinking CXX executable topic_helloworld_sub[0m
+[10.948s] [100%] Built target topic_helloworld_sub
+[10.956s] Invoked command in '/RosDemo/dev_ws/build/learning_topic_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /RosDemo/dev_ws/build/learning_topic_cpp -- -j16 -l16
+[10.973s] Invoking command in '/RosDemo/dev_ws/build/learning_topic_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /RosDemo/dev_ws/build/learning_topic_cpp
+[10.978s] -- Install configuration: ""
+[10.979s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/lib/learning_topic_cpp/topic_helloworld_pub
+[10.979s] -- Set runtime path of "/RosDemo/dev_ws/install/learning_topic_cpp/lib/learning_topic_cpp/topic_helloworld_pub" to ""
+[10.979s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/lib/learning_topic_cpp/topic_helloworld_sub
+[10.981s] -- Set runtime path of "/RosDemo/dev_ws/install/learning_topic_cpp/lib/learning_topic_cpp/topic_helloworld_sub" to ""
+[10.982s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/ament_index/resource_index/package_run_dependencies/learning_topic_cpp
+[10.982s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/ament_index/resource_index/parent_prefix_path/learning_topic_cpp
+[10.983s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/environment/ament_prefix_path.sh
+[10.983s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/environment/ament_prefix_path.dsv
+[10.984s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/environment/path.sh
+[10.984s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/environment/path.dsv
+[10.984s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/local_setup.bash
+[10.984s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/local_setup.sh
+[10.985s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/local_setup.zsh
+[10.985s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/local_setup.dsv
+[10.985s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/package.dsv
+[10.985s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/ament_index/resource_index/packages/learning_topic_cpp
+[10.986s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/cmake/learning_topic_cppConfig.cmake
+[10.986s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/cmake/learning_topic_cppConfig-version.cmake
+[10.986s] -- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/package.xml
+[10.988s] Invoked command in '/RosDemo/dev_ws/build/learning_topic_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /RosDemo/dev_ws/build/learning_topic_cpp

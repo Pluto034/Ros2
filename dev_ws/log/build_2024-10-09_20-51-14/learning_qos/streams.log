@@ -1,0 +1,39 @@
+[3.464s] Invoking command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_qos': PYTHONPATH=/RosDemo/dev_ws/build/learning_qos/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_qos/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_qos build --build-base /RosDemo/dev_ws/build/learning_qos/build install --record /RosDemo/dev_ws/build/learning_qos/install.log --single-version-externally-managed install_data
+[3.866s] running egg_info
+[3.867s] writing ../../../build/learning_qos/learning_qos.egg-info/PKG-INFO
+[3.867s] writing dependency_links to ../../../build/learning_qos/learning_qos.egg-info/dependency_links.txt
+[3.868s] writing entry points to ../../../build/learning_qos/learning_qos.egg-info/entry_points.txt
+[3.868s] writing requirements to ../../../build/learning_qos/learning_qos.egg-info/requires.txt
+[3.868s] writing top-level names to ../../../build/learning_qos/learning_qos.egg-info/top_level.txt
+[3.872s] reading manifest file '../../../build/learning_qos/learning_qos.egg-info/SOURCES.txt'
+[3.873s] writing manifest file '../../../build/learning_qos/learning_qos.egg-info/SOURCES.txt'
+[3.874s] running build
+[3.874s] running build_py
+[3.874s] creating /RosDemo/dev_ws/build/learning_qos/build
+[3.874s] creating /RosDemo/dev_ws/build/learning_qos/build/lib
+[3.874s] creating /RosDemo/dev_ws/build/learning_qos/build/lib/learning_qos
+[3.874s] copying learning_qos/qos_helloworld_pub.py -> /RosDemo/dev_ws/build/learning_qos/build/lib/learning_qos
+[3.894s] copying learning_qos/qos_helloworld_sub.py -> /RosDemo/dev_ws/build/learning_qos/build/lib/learning_qos
+[3.900s] copying learning_qos/__init__.py -> /RosDemo/dev_ws/build/learning_qos/build/lib/learning_qos
+[3.900s] running install
+[3.900s] running install_lib
+[3.900s] creating /RosDemo/dev_ws/install/learning_qos/lib/python3.10/site-packages/learning_qos
+[3.900s] copying /RosDemo/dev_ws/build/learning_qos/build/lib/learning_qos/qos_helloworld_pub.py -> /RosDemo/dev_ws/install/learning_qos/lib/python3.10/site-packages/learning_qos
+[3.900s] copying /RosDemo/dev_ws/build/learning_qos/build/lib/learning_qos/qos_helloworld_sub.py -> /RosDemo/dev_ws/install/learning_qos/lib/python3.10/site-packages/learning_qos
+[3.901s] copying /RosDemo/dev_ws/build/learning_qos/build/lib/learning_qos/__init__.py -> /RosDemo/dev_ws/install/learning_qos/lib/python3.10/site-packages/learning_qos
+[3.901s] byte-compiling /RosDemo/dev_ws/install/learning_qos/lib/python3.10/site-packages/learning_qos/qos_helloworld_pub.py to qos_helloworld_pub.cpython-310.pyc
+[3.901s] byte-compiling /RosDemo/dev_ws/install/learning_qos/lib/python3.10/site-packages/learning_qos/qos_helloworld_sub.py to qos_helloworld_sub.cpython-310.pyc
+[3.901s] byte-compiling /RosDemo/dev_ws/install/learning_qos/lib/python3.10/site-packages/learning_qos/__init__.py to __init__.cpython-310.pyc
+[3.901s] running install_data
+[3.901s] creating /RosDemo/dev_ws/install/learning_qos/share/ament_index
+[3.901s] creating /RosDemo/dev_ws/install/learning_qos/share/ament_index/resource_index
+[3.901s] creating /RosDemo/dev_ws/install/learning_qos/share/ament_index/resource_index/packages
+[3.901s] copying resource/learning_qos -> /RosDemo/dev_ws/install/learning_qos/share/ament_index/resource_index/packages
+[3.902s] copying package.xml -> /RosDemo/dev_ws/install/learning_qos/share/learning_qos
+[3.902s] running install_egg_info
+[3.905s] Copying ../../../build/learning_qos/learning_qos.egg-info to /RosDemo/dev_ws/install/learning_qos/lib/python3.10/site-packages/learning_qos-0.0.0-py3.10.egg-info
+[3.908s] running install_scripts
+[3.938s] Installing qos_helloworld_pub script to /RosDemo/dev_ws/install/learning_qos/lib/learning_qos
+[3.939s] Installing qos_helloworld_sub script to /RosDemo/dev_ws/install/learning_qos/lib/learning_qos
+[3.939s] writing list of installed files to '/RosDemo/dev_ws/build/learning_qos/install.log'
+[4.008s] Invoked command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_qos' returned '0': PYTHONPATH=/RosDemo/dev_ws/build/learning_qos/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_qos/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_qos build --build-base /RosDemo/dev_ws/build/learning_qos/build install --record /RosDemo/dev_ws/build/learning_qos/install.log --single-version-externally-managed install_data

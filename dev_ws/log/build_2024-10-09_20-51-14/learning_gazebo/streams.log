@@ -1,0 +1,62 @@
+[3.531s] Invoking command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_gazebo': PYTHONPATH=/RosDemo/dev_ws/build/learning_gazebo/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_gazebo build --build-base /RosDemo/dev_ws/build/learning_gazebo/build install --record /RosDemo/dev_ws/build/learning_gazebo/install.log --single-version-externally-managed install_data
+[3.977s] running egg_info
+[3.977s] writing ../../../build/learning_gazebo/learning_gazebo.egg-info/PKG-INFO
+[3.977s] writing dependency_links to ../../../build/learning_gazebo/learning_gazebo.egg-info/dependency_links.txt
+[3.977s] writing entry points to ../../../build/learning_gazebo/learning_gazebo.egg-info/entry_points.txt
+[3.977s] writing requirements to ../../../build/learning_gazebo/learning_gazebo.egg-info/requires.txt
+[3.977s] writing top-level names to ../../../build/learning_gazebo/learning_gazebo.egg-info/top_level.txt
+[3.977s] reading manifest file '../../../build/learning_gazebo/learning_gazebo.egg-info/SOURCES.txt'
+[3.977s] writing manifest file '../../../build/learning_gazebo/learning_gazebo.egg-info/SOURCES.txt'
+[3.977s] running build
+[3.977s] running build_py
+[3.977s] creating /RosDemo/dev_ws/build/learning_gazebo/build
+[3.977s] creating /RosDemo/dev_ws/build/learning_gazebo/build/lib
+[3.977s] creating /RosDemo/dev_ws/build/learning_gazebo/build/lib/learning_gazebo
+[3.977s] copying learning_gazebo/__init__.py -> /RosDemo/dev_ws/build/learning_gazebo/build/lib/learning_gazebo
+[3.978s] running install
+[3.978s] running install_lib
+[3.978s] creating /RosDemo/dev_ws/install/learning_gazebo/lib/python3.10/site-packages/learning_gazebo
+[3.978s] copying /RosDemo/dev_ws/build/learning_gazebo/build/lib/learning_gazebo/__init__.py -> /RosDemo/dev_ws/install/learning_gazebo/lib/python3.10/site-packages/learning_gazebo
+[3.978s] byte-compiling /RosDemo/dev_ws/install/learning_gazebo/lib/python3.10/site-packages/learning_gazebo/__init__.py to __init__.cpython-310.pyc
+[3.978s] running install_data
+[3.978s] creating /RosDemo/dev_ws/install/learning_gazebo/share/ament_index
+[3.978s] creating /RosDemo/dev_ws/install/learning_gazebo/share/ament_index/resource_index
+[3.989s] creating /RosDemo/dev_ws/install/learning_gazebo/share/ament_index/resource_index/packages
+[3.989s] copying resource/learning_gazebo -> /RosDemo/dev_ws/install/learning_gazebo/share/ament_index/resource_index/packages
+[3.991s] copying package.xml -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo
+[3.991s] creating /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[3.991s] copying launch/load_urdf_into_gazebo.launch.py -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[3.991s] copying launch/mbot_camera.launch.py -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[3.992s] copying launch/mbot_laser.launch.py -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[3.992s] copying launch/mbot_rgbd.launch.py -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[3.992s] copying launch/load_mbot_laser_into_gazebo.launch.py -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[3.994s] copying launch/load_mbot_camera_into_gazebo.launch.py -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[4.012s] copying launch/load_mbot_rgbd_into_gazebo.launch.py -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[4.013s] copying launch/mbot.launch.py -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[4.014s] creating /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf
+[4.014s] copying urdf/mbot_base_gazebo.xacro -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf
+[4.015s] copying urdf/two_wheeled_robot_nav2.urdf -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf
+[4.020s] copying urdf/mbot_with_kinect_gazebo.xacro -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf
+[4.021s] copying urdf/mbot_with_rgbd_gazebo.xacro -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf
+[4.021s] copying urdf/mbot_with_laser_gazebo.xacro -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf
+[4.021s] copying urdf/mbot_with_camera_gazebo.xacro -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf
+[4.025s] copying urdf/mbot_gazebo.xacro -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf
+[4.025s] creating /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/meshes
+[4.025s] copying meshes/kinect.dae -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/meshes
+[4.028s] copying meshes/kinect.tga -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/meshes
+[4.034s] copying meshes/kinect.jpg -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/meshes
+[4.038s] creating /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf/sensors
+[4.038s] copying urdf/sensors/kinect_gazebo.xacro -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf/sensors
+[4.039s] copying urdf/sensors/lidar_gazebo.xacro -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf/sensors
+[4.041s] copying urdf/sensors/rgbd_gazebo.xacro -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf/sensors
+[4.041s] copying urdf/sensors/camera_gazebo.xacro -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf/sensors
+[4.043s] creating /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/worlds
+[4.044s] copying worlds/neighborhood.world -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/worlds
+[4.045s] copying worlds/empty_world.model -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/worlds
+[4.046s] creating /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/rviz
+[4.046s] copying rviz/urdf_gazebo_config.rviz -> /RosDemo/dev_ws/install/learning_gazebo/share/learning_gazebo/rviz
+[4.047s] running install_egg_info
+[4.050s] Copying ../../../build/learning_gazebo/learning_gazebo.egg-info to /RosDemo/dev_ws/install/learning_gazebo/lib/python3.10/site-packages/learning_gazebo-0.0.0-py3.10.egg-info
+[4.059s] running install_scripts
+[4.084s] writing list of installed files to '/RosDemo/dev_ws/build/learning_gazebo/install.log'
+[4.119s] Invoked command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_gazebo' returned '0': PYTHONPATH=/RosDemo/dev_ws/build/learning_gazebo/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_gazebo build --build-base /RosDemo/dev_ws/build/learning_gazebo/build install --record /RosDemo/dev_ws/build/learning_gazebo/install.log --single-version-externally-managed install_data

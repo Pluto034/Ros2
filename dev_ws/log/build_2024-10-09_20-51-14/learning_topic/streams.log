@@ -1,0 +1,57 @@
+[1.499s] Invoking command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_topic': AMENT_PREFIX_PATH=/RosDemo/dev_ws/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/RosDemo/dev_ws/install/learning_interface LD_LIBRARY_PATH=/RosDemo/dev_ws/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/RosDemo/dev_ws/build/learning_topic/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages:/RosDemo/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_topic build --build-base /RosDemo/dev_ws/build/learning_topic/build install --record /RosDemo/dev_ws/build/learning_topic/install.log --single-version-externally-managed install_data
+[1.746s] running egg_info
+[1.747s] creating ../../../build/learning_topic/learning_topic.egg-info
+[1.747s] writing ../../../build/learning_topic/learning_topic.egg-info/PKG-INFO
+[1.747s] writing dependency_links to ../../../build/learning_topic/learning_topic.egg-info/dependency_links.txt
+[1.748s] writing entry points to ../../../build/learning_topic/learning_topic.egg-info/entry_points.txt
+[1.748s] writing requirements to ../../../build/learning_topic/learning_topic.egg-info/requires.txt
+[1.748s] writing top-level names to ../../../build/learning_topic/learning_topic.egg-info/top_level.txt
+[1.748s] writing manifest file '../../../build/learning_topic/learning_topic.egg-info/SOURCES.txt'
+[1.751s] reading manifest file '../../../build/learning_topic/learning_topic.egg-info/SOURCES.txt'
+[1.752s] writing manifest file '../../../build/learning_topic/learning_topic.egg-info/SOURCES.txt'
+[1.753s] running build
+[1.753s] running build_py
+[1.753s] creating /RosDemo/dev_ws/build/learning_topic/build
+[1.753s] creating /RosDemo/dev_ws/build/learning_topic/build/lib
+[1.753s] creating /RosDemo/dev_ws/build/learning_topic/build/lib/learning_topic
+[1.753s] copying learning_topic/interface_object_sub.py -> /RosDemo/dev_ws/build/learning_topic/build/lib/learning_topic
+[1.754s] copying learning_topic/topic_helloworld_pub.py -> /RosDemo/dev_ws/build/learning_topic/build/lib/learning_topic
+[1.754s] copying learning_topic/topic_webcam_pub.py -> /RosDemo/dev_ws/build/learning_topic/build/lib/learning_topic
+[1.755s] copying learning_topic/__init__.py -> /RosDemo/dev_ws/build/learning_topic/build/lib/learning_topic
+[1.755s] copying learning_topic/topic_webcam_sub.py -> /RosDemo/dev_ws/build/learning_topic/build/lib/learning_topic
+[1.755s] copying learning_topic/interface_object_pub.py -> /RosDemo/dev_ws/build/learning_topic/build/lib/learning_topic
+[1.756s] copying learning_topic/topic_helloworld_sub.py -> /RosDemo/dev_ws/build/learning_topic/build/lib/learning_topic
+[1.756s] running install
+[1.756s] running install_lib
+[1.757s] creating /RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[1.757s] copying /RosDemo/dev_ws/build/learning_topic/build/lib/learning_topic/interface_object_sub.py -> /RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[1.757s] copying /RosDemo/dev_ws/build/learning_topic/build/lib/learning_topic/topic_helloworld_pub.py -> /RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[1.758s] copying /RosDemo/dev_ws/build/learning_topic/build/lib/learning_topic/topic_webcam_pub.py -> /RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[1.758s] copying /RosDemo/dev_ws/build/learning_topic/build/lib/learning_topic/__init__.py -> /RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[1.758s] copying /RosDemo/dev_ws/build/learning_topic/build/lib/learning_topic/topic_webcam_sub.py -> /RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[1.758s] copying /RosDemo/dev_ws/build/learning_topic/build/lib/learning_topic/interface_object_pub.py -> /RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[1.758s] copying /RosDemo/dev_ws/build/learning_topic/build/lib/learning_topic/topic_helloworld_sub.py -> /RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[1.758s] byte-compiling /RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/interface_object_sub.py to interface_object_sub.cpython-310.pyc
+[1.758s] byte-compiling /RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/topic_helloworld_pub.py to topic_helloworld_pub.cpython-310.pyc
+[1.759s] byte-compiling /RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/topic_webcam_pub.py to topic_webcam_pub.cpython-310.pyc
+[1.759s] byte-compiling /RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/__init__.py to __init__.cpython-310.pyc
+[1.759s] byte-compiling /RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/topic_webcam_sub.py to topic_webcam_sub.cpython-310.pyc
+[1.760s] byte-compiling /RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/interface_object_pub.py to interface_object_pub.cpython-310.pyc
+[1.760s] byte-compiling /RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/topic_helloworld_sub.py to topic_helloworld_sub.cpython-310.pyc
+[1.760s] running install_data
+[1.761s] creating /RosDemo/dev_ws/install/learning_topic/share/ament_index
+[1.761s] creating /RosDemo/dev_ws/install/learning_topic/share/ament_index/resource_index
+[1.761s] creating /RosDemo/dev_ws/install/learning_topic/share/ament_index/resource_index/packages
+[1.761s] copying resource/learning_topic -> /RosDemo/dev_ws/install/learning_topic/share/ament_index/resource_index/packages
+[1.761s] copying package.xml -> /RosDemo/dev_ws/install/learning_topic/share/learning_topic
+[1.761s] running install_egg_info
+[1.763s] Copying ../../../build/learning_topic/learning_topic.egg-info to /RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic-0.0.0-py3.10.egg-info
+[1.763s] running install_scripts
+[1.781s] Installing interface_object_pub script to /RosDemo/dev_ws/install/learning_topic/lib/learning_topic
+[1.782s] Installing interface_object_sub script to /RosDemo/dev_ws/install/learning_topic/lib/learning_topic
+[1.782s] Installing topic_helloworld_pub script to /RosDemo/dev_ws/install/learning_topic/lib/learning_topic
+[1.782s] Installing topic_helloworld_sub script to /RosDemo/dev_ws/install/learning_topic/lib/learning_topic
+[1.782s] Installing topic_webcam_pub script to /RosDemo/dev_ws/install/learning_topic/lib/learning_topic
+[1.782s] Installing topic_webcam_sub script to /RosDemo/dev_ws/install/learning_topic/lib/learning_topic
+[1.782s] writing list of installed files to '/RosDemo/dev_ws/build/learning_topic/install.log'
+[1.813s] Invoked command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_topic' returned '0': AMENT_PREFIX_PATH=/RosDemo/dev_ws/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/RosDemo/dev_ws/install/learning_interface LD_LIBRARY_PATH=/RosDemo/dev_ws/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/RosDemo/dev_ws/build/learning_topic/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_topic/lib/python3.10/site-packages:/RosDemo/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_topic build --build-base /RosDemo/dev_ws/build/learning_topic/build install --record /RosDemo/dev_ws/build/learning_topic/install.log --single-version-externally-managed install_data

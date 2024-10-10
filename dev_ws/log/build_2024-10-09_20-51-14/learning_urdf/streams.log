@@ -1,0 +1,50 @@
+[3.631s] Invoking command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_urdf': PYTHONPATH=/RosDemo/dev_ws/build/learning_urdf/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_urdf build --build-base /RosDemo/dev_ws/build/learning_urdf/build install --record /RosDemo/dev_ws/build/learning_urdf/install.log --single-version-externally-managed install_data
+[4.028s] running egg_info
+[4.029s] writing ../../../build/learning_urdf/learning_urdf.egg-info/PKG-INFO
+[4.029s] writing dependency_links to ../../../build/learning_urdf/learning_urdf.egg-info/dependency_links.txt
+[4.031s] writing entry points to ../../../build/learning_urdf/learning_urdf.egg-info/entry_points.txt
+[4.031s] writing requirements to ../../../build/learning_urdf/learning_urdf.egg-info/requires.txt
+[4.031s] writing top-level names to ../../../build/learning_urdf/learning_urdf.egg-info/top_level.txt
+[4.037s] reading manifest file '../../../build/learning_urdf/learning_urdf.egg-info/SOURCES.txt'
+[4.038s] writing manifest file '../../../build/learning_urdf/learning_urdf.egg-info/SOURCES.txt'
+[4.038s] running build
+[4.039s] running build_py
+[4.039s] creating /RosDemo/dev_ws/build/learning_urdf/build
+[4.042s] creating /RosDemo/dev_ws/build/learning_urdf/build/lib
+[4.042s] creating /RosDemo/dev_ws/build/learning_urdf/build/lib/learning_urdf
+[4.042s] copying learning_urdf/__init__.py -> /RosDemo/dev_ws/build/learning_urdf/build/lib/learning_urdf
+[4.043s] running install
+[4.043s] running install_lib
+[4.043s] creating /RosDemo/dev_ws/install/learning_urdf/lib/python3.10/site-packages/learning_urdf
+[4.043s] copying /RosDemo/dev_ws/build/learning_urdf/build/lib/learning_urdf/__init__.py -> /RosDemo/dev_ws/install/learning_urdf/lib/python3.10/site-packages/learning_urdf
+[4.044s] byte-compiling /RosDemo/dev_ws/install/learning_urdf/lib/python3.10/site-packages/learning_urdf/__init__.py to __init__.cpython-310.pyc
+[4.044s] running install_data
+[4.045s] creating /RosDemo/dev_ws/install/learning_urdf/share/ament_index
+[4.045s] creating /RosDemo/dev_ws/install/learning_urdf/share/ament_index/resource_index
+[4.045s] creating /RosDemo/dev_ws/install/learning_urdf/share/ament_index/resource_index/packages
+[4.045s] copying resource/learning_urdf -> /RosDemo/dev_ws/install/learning_urdf/share/ament_index/resource_index/packages
+[4.046s] copying package.xml -> /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf
+[4.046s] creating /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/launch
+[4.046s] copying launch/display.launch.py -> /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/launch
+[4.047s] copying launch/display_xacro.launch.py -> /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/launch
+[4.048s] creating /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/urdf
+[4.048s] copying urdf/mbot_with_kinect.urdf -> /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/urdf
+[4.048s] copying urdf/mbot_with_laser.urdf -> /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/urdf
+[4.049s] copying urdf/mbot_with_camera.urdf -> /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/urdf
+[4.049s] copying urdf/mbot_base.xacro -> /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/urdf
+[4.049s] copying urdf/mbot_base.urdf -> /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/urdf
+[4.049s] creating /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/urdf/sensors
+[4.049s] copying urdf/sensors/kinect_gazebo.xacro -> /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/urdf/sensors
+[4.050s] copying urdf/sensors/lidar_gazebo.xacro -> /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/urdf/sensors
+[4.051s] copying urdf/sensors/camera_gazebo.xacro -> /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/urdf/sensors
+[4.051s] creating /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/meshes
+[4.051s] copying meshes/kinect.dae -> /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/meshes
+[4.052s] copying meshes/kinect.tga -> /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/meshes
+[4.052s] copying meshes/kinect.jpg -> /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/meshes
+[4.052s] creating /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/rviz
+[4.052s] copying rviz/urdf.rviz -> /RosDemo/dev_ws/install/learning_urdf/share/learning_urdf/rviz
+[4.052s] running install_egg_info
+[4.056s] Copying ../../../build/learning_urdf/learning_urdf.egg-info to /RosDemo/dev_ws/install/learning_urdf/lib/python3.10/site-packages/learning_urdf-0.0.0-py3.10.egg-info
+[4.056s] running install_scripts
+[4.082s] writing list of installed files to '/RosDemo/dev_ws/build/learning_urdf/install.log'
+[4.127s] Invoked command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_urdf' returned '0': PYTHONPATH=/RosDemo/dev_ws/build/learning_urdf/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_urdf build --build-base /RosDemo/dev_ws/build/learning_urdf/build install --record /RosDemo/dev_ws/build/learning_urdf/install.log --single-version-externally-managed install_data

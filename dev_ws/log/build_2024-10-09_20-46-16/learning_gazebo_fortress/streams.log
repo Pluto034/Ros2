@@ -1,0 +1,41 @@
+[2.345s] Invoking command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_gazebo_fortress': PYTHONPATH=/RosDemo/dev_ws/build/learning_gazebo_fortress/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_gazebo_fortress/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_gazebo_fortress build --build-base /RosDemo/dev_ws/build/learning_gazebo_fortress/build install --record /RosDemo/dev_ws/build/learning_gazebo_fortress/install.log --single-version-externally-managed install_data
+[2.552s] /usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[2.552s]   warnings.warn(msg)
+[2.689s] running egg_info
+[2.691s] creating ../../../build/learning_gazebo_fortress/learning_gazebo_fortress.egg-info
+[2.717s] writing ../../../build/learning_gazebo_fortress/learning_gazebo_fortress.egg-info/PKG-INFO
+[2.718s] writing dependency_links to ../../../build/learning_gazebo_fortress/learning_gazebo_fortress.egg-info/dependency_links.txt
+[2.718s] writing requirements to ../../../build/learning_gazebo_fortress/learning_gazebo_fortress.egg-info/requires.txt
+[2.718s] writing top-level names to ../../../build/learning_gazebo_fortress/learning_gazebo_fortress.egg-info/top_level.txt
+[2.719s] writing manifest file '../../../build/learning_gazebo_fortress/learning_gazebo_fortress.egg-info/SOURCES.txt'
+[2.771s] reading manifest file '../../../build/learning_gazebo_fortress/learning_gazebo_fortress.egg-info/SOURCES.txt'
+[2.772s] Traceback (most recent call last):
+[2.772s]   File "/RosDemo/dev_ws/src/ros2_21_tutorials/learning_gazebo_fortress/setup.py", line 7, in <module>
+[2.772s]     setup(
+[2.772s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/__init__.py", line 117, in setup
+[2.772s]     return distutils.core.setup(**attrs)
+[2.772s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/core.py", line 183, in setup
+[2.772s]     return run_commands(dist)
+[2.772s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/core.py", line 199, in run_commands
+[2.772s]     dist.run_commands()
+[2.772s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py", line 954, in run_commands
+[2.772s]     self.run_command(cmd)
+[2.772s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/dist.py", line 950, in run_command
+[2.772s]     super().run_command(command)
+[2.773s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py", line 973, in run_command
+[2.773s]     cmd_obj.run()
+[2.773s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/command/egg_info.py", line 311, in run
+[2.773s]     self.find_sources()
+[2.773s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/command/egg_info.py", line 319, in find_sources
+[2.773s]     mm.run()
+[2.773s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/command/egg_info.py", line 545, in run
+[2.773s]     self.prune_file_list()
+[2.773s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/command/sdist.py", line 161, in prune_file_list
+[2.773s]     super().prune_file_list()
+[2.773s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/command/sdist.py", line 380, in prune_file_list
+[2.773s]     base_dir = self.distribution.get_fullname()
+[2.773s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/_core_metadata.py", line 267, in get_fullname
+[2.773s]     return _distribution_fullname(self.get_name(), self.get_version())
+[2.773s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/_core_metadata.py", line 285, in _distribution_fullname
+[2.773s]     canonicalize_version(version, strip_trailing_zero=False),
+[2.773s] TypeError: canonicalize_version() got an unexpected keyword argument 'strip_trailing_zero'

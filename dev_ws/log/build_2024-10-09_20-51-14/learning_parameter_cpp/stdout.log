@@ -1,0 +1,21 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/param_declare.dir/src/param_declare.cpp.o[0m
+[100%] [32m[1mLinking CXX executable param_declare[0m
+[100%] Built target param_declare
+-- Install configuration: ""
+-- Installing: /RosDemo/dev_ws/install/learning_parameter_cpp/lib/learning_parameter_cpp/param_declare
+-- Set runtime path of "/RosDemo/dev_ws/install/learning_parameter_cpp/lib/learning_parameter_cpp/param_declare" to ""
+-- Installing: /RosDemo/dev_ws/install/learning_parameter_cpp/share/ament_index/resource_index/package_run_dependencies/learning_parameter_cpp
+-- Installing: /RosDemo/dev_ws/install/learning_parameter_cpp/share/ament_index/resource_index/parent_prefix_path/learning_parameter_cpp
+-- Installing: /RosDemo/dev_ws/install/learning_parameter_cpp/share/learning_parameter_cpp/environment/ament_prefix_path.sh
+-- Installing: /RosDemo/dev_ws/install/learning_parameter_cpp/share/learning_parameter_cpp/environment/ament_prefix_path.dsv
+-- Installing: /RosDemo/dev_ws/install/learning_parameter_cpp/share/learning_parameter_cpp/environment/path.sh
+-- Installing: /RosDemo/dev_ws/install/learning_parameter_cpp/share/learning_parameter_cpp/environment/path.dsv
+-- Installing: /RosDemo/dev_ws/install/learning_parameter_cpp/share/learning_parameter_cpp/local_setup.bash
+-- Installing: /RosDemo/dev_ws/install/learning_parameter_cpp/share/learning_parameter_cpp/local_setup.sh
+-- Installing: /RosDemo/dev_ws/install/learning_parameter_cpp/share/learning_parameter_cpp/local_setup.zsh
+-- Installing: /RosDemo/dev_ws/install/learning_parameter_cpp/share/learning_parameter_cpp/local_setup.dsv
+-- Installing: /RosDemo/dev_ws/install/learning_parameter_cpp/share/learning_parameter_cpp/package.dsv
+-- Installing: /RosDemo/dev_ws/install/learning_parameter_cpp/share/ament_index/resource_index/packages/learning_parameter_cpp
+-- Installing: /RosDemo/dev_ws/install/learning_parameter_cpp/share/learning_parameter_cpp/cmake/learning_parameter_cppConfig.cmake
+-- Installing: /RosDemo/dev_ws/install/learning_parameter_cpp/share/learning_parameter_cpp/cmake/learning_parameter_cppConfig-version.cmake
+-- Installing: /RosDemo/dev_ws/install/learning_parameter_cpp/share/learning_parameter_cpp/package.xml

@@ -1,0 +1,20 @@
+[2.600s] Invoking command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_launch': PYTHONPATH=/RosDemo/dev_ws/build/learning_launch/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_launch build --build-base /RosDemo/dev_ws/build/learning_launch/build install --record /RosDemo/dev_ws/build/learning_launch/install.log --single-version-externally-managed install_data
+[3.127s] running egg_info
+[3.128s] writing ../../../build/learning_launch/learning_launch.egg-info/PKG-INFO
+[3.128s] writing dependency_links to ../../../build/learning_launch/learning_launch.egg-info/dependency_links.txt
+[3.128s] writing entry points to ../../../build/learning_launch/learning_launch.egg-info/entry_points.txt
+[3.128s] writing requirements to ../../../build/learning_launch/learning_launch.egg-info/requires.txt
+[3.128s] writing top-level names to ../../../build/learning_launch/learning_launch.egg-info/top_level.txt
+[3.128s] reading manifest file '../../../build/learning_launch/learning_launch.egg-info/SOURCES.txt'
+[3.128s] writing manifest file '../../../build/learning_launch/learning_launch.egg-info/SOURCES.txt'
+[3.128s] running build
+[3.128s] running build_py
+[3.128s] running install
+[3.129s] running install_lib
+[3.129s] running install_data
+[3.129s] running install_egg_info
+[3.129s] removing '/RosDemo/dev_ws/install/learning_launch/lib/python3.10/site-packages/learning_launch-0.0.0-py3.10.egg-info' (and everything under it)
+[3.129s] Copying ../../../build/learning_launch/learning_launch.egg-info to /RosDemo/dev_ws/install/learning_launch/lib/python3.10/site-packages/learning_launch-0.0.0-py3.10.egg-info
+[3.129s] running install_scripts
+[3.129s] writing list of installed files to '/RosDemo/dev_ws/build/learning_launch/install.log'
+[3.151s] Invoked command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_launch' returned '0': PYTHONPATH=/RosDemo/dev_ws/build/learning_launch/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_launch build --build-base /RosDemo/dev_ws/build/learning_launch/build install --record /RosDemo/dev_ws/build/learning_launch/install.log --single-version-externally-managed install_data

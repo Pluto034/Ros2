@@ -1,0 +1,1 @@
+Invoking command in '/RosDemo/dev_ws/build/learning_topic_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /RosDemo/dev_ws/src/ros2_21_tutorials/learning_topic_cpp -DCMAKE_INSTALL_PREFIX=/RosDemo/dev_ws/install/learning_topic_cpp

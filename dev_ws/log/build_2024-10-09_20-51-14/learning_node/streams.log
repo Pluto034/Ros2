@@ -1,0 +1,47 @@
+[3.501s] Invoking command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_node': PYTHONPATH=/RosDemo/dev_ws/build/learning_node/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_node build --build-base /RosDemo/dev_ws/build/learning_node/build install --record /RosDemo/dev_ws/build/learning_node/install.log --single-version-externally-managed install_data
+[3.934s] running egg_info
+[3.934s] writing ../../../build/learning_node/learning_node.egg-info/PKG-INFO
+[3.935s] writing dependency_links to ../../../build/learning_node/learning_node.egg-info/dependency_links.txt
+[3.936s] writing entry points to ../../../build/learning_node/learning_node.egg-info/entry_points.txt
+[3.937s] writing requirements to ../../../build/learning_node/learning_node.egg-info/requires.txt
+[3.937s] writing top-level names to ../../../build/learning_node/learning_node.egg-info/top_level.txt
+[3.951s] reading manifest file '../../../build/learning_node/learning_node.egg-info/SOURCES.txt'
+[3.952s] writing manifest file '../../../build/learning_node/learning_node.egg-info/SOURCES.txt'
+[3.952s] running build
+[3.952s] running build_py
+[3.953s] creating /RosDemo/dev_ws/build/learning_node/build
+[3.953s] creating /RosDemo/dev_ws/build/learning_node/build/lib
+[3.953s] creating /RosDemo/dev_ws/build/learning_node/build/lib/learning_node
+[3.953s] copying learning_node/node_helloworld.py -> /RosDemo/dev_ws/build/learning_node/build/lib/learning_node
+[3.956s] copying learning_node/node_helloworld_class.py -> /RosDemo/dev_ws/build/learning_node/build/lib/learning_node
+[3.957s] copying learning_node/node_object.py -> /RosDemo/dev_ws/build/learning_node/build/lib/learning_node
+[3.957s] copying learning_node/__init__.py -> /RosDemo/dev_ws/build/learning_node/build/lib/learning_node
+[3.958s] copying learning_node/node_object_webcam.py -> /RosDemo/dev_ws/build/learning_node/build/lib/learning_node
+[3.958s] running install
+[3.959s] running install_lib
+[3.960s] creating /RosDemo/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node
+[3.960s] copying /RosDemo/dev_ws/build/learning_node/build/lib/learning_node/node_helloworld.py -> /RosDemo/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node
+[3.960s] copying /RosDemo/dev_ws/build/learning_node/build/lib/learning_node/node_helloworld_class.py -> /RosDemo/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node
+[3.960s] copying /RosDemo/dev_ws/build/learning_node/build/lib/learning_node/node_object.py -> /RosDemo/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node
+[3.960s] copying /RosDemo/dev_ws/build/learning_node/build/lib/learning_node/__init__.py -> /RosDemo/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node
+[3.960s] copying /RosDemo/dev_ws/build/learning_node/build/lib/learning_node/node_object_webcam.py -> /RosDemo/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node
+[3.961s] byte-compiling /RosDemo/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node/node_helloworld.py to node_helloworld.cpython-310.pyc
+[3.962s] byte-compiling /RosDemo/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node/node_helloworld_class.py to node_helloworld_class.cpython-310.pyc
+[3.962s] byte-compiling /RosDemo/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node/node_object.py to node_object.cpython-310.pyc
+[3.963s] byte-compiling /RosDemo/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node/__init__.py to __init__.cpython-310.pyc
+[3.963s] byte-compiling /RosDemo/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node/node_object_webcam.py to node_object_webcam.cpython-310.pyc
+[3.963s] running install_data
+[3.964s] creating /RosDemo/dev_ws/install/learning_node/share/ament_index
+[3.965s] creating /RosDemo/dev_ws/install/learning_node/share/ament_index/resource_index
+[3.965s] creating /RosDemo/dev_ws/install/learning_node/share/ament_index/resource_index/packages
+[3.965s] copying resource/learning_node -> /RosDemo/dev_ws/install/learning_node/share/ament_index/resource_index/packages
+[3.966s] copying package.xml -> /RosDemo/dev_ws/install/learning_node/share/learning_node
+[3.966s] running install_egg_info
+[3.980s] Copying ../../../build/learning_node/learning_node.egg-info to /RosDemo/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node-0.0.0-py3.10.egg-info
+[3.980s] running install_scripts
+[4.009s] Installing node_helloworld script to /RosDemo/dev_ws/install/learning_node/lib/learning_node
+[4.009s] Installing node_helloworld_class script to /RosDemo/dev_ws/install/learning_node/lib/learning_node
+[4.010s] Installing node_object script to /RosDemo/dev_ws/install/learning_node/lib/learning_node
+[4.010s] Installing node_object_webcam script to /RosDemo/dev_ws/install/learning_node/lib/learning_node
+[4.010s] writing list of installed files to '/RosDemo/dev_ws/build/learning_node/install.log'
+[4.057s] Invoked command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_node' returned '0': PYTHONPATH=/RosDemo/dev_ws/build/learning_node/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_node build --build-base /RosDemo/dev_ws/build/learning_node/build install --record /RosDemo/dev_ws/build/learning_node/install.log --single-version-externally-managed install_data

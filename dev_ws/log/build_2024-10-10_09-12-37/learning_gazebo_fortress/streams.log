@@ -1,0 +1,20 @@
+[3.025s] Invoking command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_gazebo_fortress': PYTHONPATH=/RosDemo/dev_ws/build/learning_gazebo_fortress/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_gazebo_fortress/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_gazebo_fortress build --build-base /RosDemo/dev_ws/build/learning_gazebo_fortress/build install --record /RosDemo/dev_ws/build/learning_gazebo_fortress/install.log --single-version-externally-managed install_data
+[3.300s] running egg_info
+[3.302s] writing ../../../build/learning_gazebo_fortress/learning_gazebo_fortress.egg-info/PKG-INFO
+[3.303s] writing dependency_links to ../../../build/learning_gazebo_fortress/learning_gazebo_fortress.egg-info/dependency_links.txt
+[3.303s] writing entry points to ../../../build/learning_gazebo_fortress/learning_gazebo_fortress.egg-info/entry_points.txt
+[3.303s] writing requirements to ../../../build/learning_gazebo_fortress/learning_gazebo_fortress.egg-info/requires.txt
+[3.304s] writing top-level names to ../../../build/learning_gazebo_fortress/learning_gazebo_fortress.egg-info/top_level.txt
+[3.305s] reading manifest file '../../../build/learning_gazebo_fortress/learning_gazebo_fortress.egg-info/SOURCES.txt'
+[3.306s] writing manifest file '../../../build/learning_gazebo_fortress/learning_gazebo_fortress.egg-info/SOURCES.txt'
+[3.306s] running build
+[3.306s] running build_py
+[3.308s] running install
+[3.309s] running install_lib
+[3.310s] running install_data
+[3.311s] running install_egg_info
+[3.311s] removing '/RosDemo/dev_ws/install/learning_gazebo_fortress/lib/python3.10/site-packages/learning_gazebo_fortress-0.0.0-py3.10.egg-info' (and everything under it)
+[3.312s] Copying ../../../build/learning_gazebo_fortress/learning_gazebo_fortress.egg-info to /RosDemo/dev_ws/install/learning_gazebo_fortress/lib/python3.10/site-packages/learning_gazebo_fortress-0.0.0-py3.10.egg-info
+[3.312s] running install_scripts
+[3.335s] writing list of installed files to '/RosDemo/dev_ws/build/learning_gazebo_fortress/install.log'
+[3.486s] Invoked command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_gazebo_fortress' returned '0': PYTHONPATH=/RosDemo/dev_ws/build/learning_gazebo_fortress/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_gazebo_fortress/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_gazebo_fortress build --build-base /RosDemo/dev_ws/build/learning_gazebo_fortress/build install --record /RosDemo/dev_ws/build/learning_gazebo_fortress/install.log --single-version-externally-managed install_data

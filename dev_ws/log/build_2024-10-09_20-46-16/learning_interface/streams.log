@@ -1,0 +1,36 @@
+[0.055s] Invoking command in '/RosDemo/dev_ws/build/learning_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /RosDemo/dev_ws/src/ros2_21_tutorials/learning_interface -DCMAKE_INSTALL_PREFIX=/RosDemo/dev_ws/install/learning_interface
+[1.609s] -- The C compiler identification is GNU 11.4.0
+[1.609s] -- The CXX compiler identification is GNU 11.4.0
+[1.609s] -- Detecting C compiler ABI info
+[1.609s] -- Detecting C compiler ABI info - done
+[1.609s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.609s] -- Detecting C compile features
+[1.609s] -- Detecting C compile features - done
+[1.609s] -- Detecting CXX compiler ABI info
+[1.612s] -- Detecting CXX compiler ABI info - done
+[1.617s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.617s] -- Detecting CXX compile features
+[1.618s] -- Detecting CXX compile features - done
+[1.619s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.121s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.225s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[2.229s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.236s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.626s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.026s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[3.169s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.349s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.564s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[3.565s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[4.245s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[4.245s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.245s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[4.245s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[4.260s] -- Found PythonExtra: .so  
+[4.346s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.360s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.361s] -- Added test 'lint_cmake' to check CMake code style
+[4.362s] -- Added test 'xmllint' to check XML markup files
+[4.364s] -- Configuring done
+[4.392s] -- Generating done
+[4.394s] -- Build files have been written to: /RosDemo/dev_ws/build/learning_interface

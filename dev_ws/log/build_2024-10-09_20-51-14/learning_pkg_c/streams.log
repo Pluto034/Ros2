@@ -1,0 +1,20 @@
+[1.377s] Invoking command in '/RosDemo/dev_ws/build/learning_pkg_c': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /RosDemo/dev_ws/build/learning_pkg_c -- -j16 -l16
+[2.563s] Invoked command in '/RosDemo/dev_ws/build/learning_pkg_c' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /RosDemo/dev_ws/build/learning_pkg_c -- -j16 -l16
+[2.670s] Invoking command in '/RosDemo/dev_ws/build/learning_pkg_c': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /RosDemo/dev_ws/build/learning_pkg_c
+[2.691s] -- Install configuration: ""
+[2.698s] -- Installing: /RosDemo/dev_ws/install/learning_pkg_c/share/ament_index/resource_index/package_run_dependencies/learning_pkg_c
+[2.700s] -- Installing: /RosDemo/dev_ws/install/learning_pkg_c/share/ament_index/resource_index/parent_prefix_path/learning_pkg_c
+[2.702s] -- Installing: /RosDemo/dev_ws/install/learning_pkg_c/share/learning_pkg_c/environment/ament_prefix_path.sh
+[2.703s] -- Installing: /RosDemo/dev_ws/install/learning_pkg_c/share/learning_pkg_c/environment/ament_prefix_path.dsv
+[2.704s] -- Installing: /RosDemo/dev_ws/install/learning_pkg_c/share/learning_pkg_c/environment/path.sh
+[2.706s] -- Installing: /RosDemo/dev_ws/install/learning_pkg_c/share/learning_pkg_c/environment/path.dsv
+[2.706s] -- Installing: /RosDemo/dev_ws/install/learning_pkg_c/share/learning_pkg_c/local_setup.bash
+[2.707s] -- Installing: /RosDemo/dev_ws/install/learning_pkg_c/share/learning_pkg_c/local_setup.sh
+[2.708s] -- Installing: /RosDemo/dev_ws/install/learning_pkg_c/share/learning_pkg_c/local_setup.zsh
+[2.710s] -- Installing: /RosDemo/dev_ws/install/learning_pkg_c/share/learning_pkg_c/local_setup.dsv
+[2.710s] -- Installing: /RosDemo/dev_ws/install/learning_pkg_c/share/learning_pkg_c/package.dsv
+[2.712s] -- Installing: /RosDemo/dev_ws/install/learning_pkg_c/share/ament_index/resource_index/packages/learning_pkg_c
+[2.712s] -- Installing: /RosDemo/dev_ws/install/learning_pkg_c/share/learning_pkg_c/cmake/learning_pkg_cConfig.cmake
+[2.713s] -- Installing: /RosDemo/dev_ws/install/learning_pkg_c/share/learning_pkg_c/cmake/learning_pkg_cConfig-version.cmake
+[2.714s] -- Installing: /RosDemo/dev_ws/install/learning_pkg_c/share/learning_pkg_c/package.xml
+[2.716s] Invoked command in '/RosDemo/dev_ws/build/learning_pkg_c' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /RosDemo/dev_ws/build/learning_pkg_c

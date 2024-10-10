@@ -1,0 +1,35 @@
+[3.655s] Invoking command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_cv': PYTHONPATH=/RosDemo/dev_ws/build/learning_cv/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_cv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_cv build --build-base /RosDemo/dev_ws/build/learning_cv/build install --record /RosDemo/dev_ws/build/learning_cv/install.log --single-version-externally-managed install_data
+[4.068s] running egg_info
+[4.070s] writing ../../../build/learning_cv/learning_cv.egg-info/PKG-INFO
+[4.070s] writing dependency_links to ../../../build/learning_cv/learning_cv.egg-info/dependency_links.txt
+[4.072s] writing entry points to ../../../build/learning_cv/learning_cv.egg-info/entry_points.txt
+[4.072s] writing requirements to ../../../build/learning_cv/learning_cv.egg-info/requires.txt
+[4.072s] writing top-level names to ../../../build/learning_cv/learning_cv.egg-info/top_level.txt
+[4.075s] reading manifest file '../../../build/learning_cv/learning_cv.egg-info/SOURCES.txt'
+[4.083s] writing manifest file '../../../build/learning_cv/learning_cv.egg-info/SOURCES.txt'
+[4.084s] running build
+[4.084s] running build_py
+[4.084s] creating /RosDemo/dev_ws/build/learning_cv/build
+[4.085s] creating /RosDemo/dev_ws/build/learning_cv/build/lib
+[4.085s] creating /RosDemo/dev_ws/build/learning_cv/build/lib/learning_cv
+[4.086s] copying learning_cv/__init__.py -> /RosDemo/dev_ws/build/learning_cv/build/lib/learning_cv
+[4.086s] copying learning_cv/cv_bridge_test.py -> /RosDemo/dev_ws/build/learning_cv/build/lib/learning_cv
+[4.087s] running install
+[4.087s] running install_lib
+[4.088s] creating /RosDemo/dev_ws/install/learning_cv/lib/python3.10/site-packages/learning_cv
+[4.088s] copying /RosDemo/dev_ws/build/learning_cv/build/lib/learning_cv/__init__.py -> /RosDemo/dev_ws/install/learning_cv/lib/python3.10/site-packages/learning_cv
+[4.088s] copying /RosDemo/dev_ws/build/learning_cv/build/lib/learning_cv/cv_bridge_test.py -> /RosDemo/dev_ws/install/learning_cv/lib/python3.10/site-packages/learning_cv
+[4.089s] byte-compiling /RosDemo/dev_ws/install/learning_cv/lib/python3.10/site-packages/learning_cv/__init__.py to __init__.cpython-310.pyc
+[4.089s] byte-compiling /RosDemo/dev_ws/install/learning_cv/lib/python3.10/site-packages/learning_cv/cv_bridge_test.py to cv_bridge_test.cpython-310.pyc
+[4.090s] running install_data
+[4.090s] creating /RosDemo/dev_ws/install/learning_cv/share/ament_index
+[4.090s] creating /RosDemo/dev_ws/install/learning_cv/share/ament_index/resource_index
+[4.091s] creating /RosDemo/dev_ws/install/learning_cv/share/ament_index/resource_index/packages
+[4.091s] copying resource/learning_cv -> /RosDemo/dev_ws/install/learning_cv/share/ament_index/resource_index/packages
+[4.091s] copying package.xml -> /RosDemo/dev_ws/install/learning_cv/share/learning_cv
+[4.092s] running install_egg_info
+[4.093s] Copying ../../../build/learning_cv/learning_cv.egg-info to /RosDemo/dev_ws/install/learning_cv/lib/python3.10/site-packages/learning_cv-0.0.0-py3.10.egg-info
+[4.094s] running install_scripts
+[4.117s] Installing cv_bridge_test script to /RosDemo/dev_ws/install/learning_cv/lib/learning_cv
+[4.118s] writing list of installed files to '/RosDemo/dev_ws/build/learning_cv/install.log'
+[4.162s] Invoked command in '/RosDemo/dev_ws/src/ros2_21_tutorials/learning_cv' returned '0': PYTHONPATH=/RosDemo/dev_ws/build/learning_cv/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/RosDemo/dev_ws/install/learning_cv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/learning_cv build --build-base /RosDemo/dev_ws/build/learning_cv/build install --record /RosDemo/dev_ws/build/learning_cv/install.log --single-version-externally-managed install_data

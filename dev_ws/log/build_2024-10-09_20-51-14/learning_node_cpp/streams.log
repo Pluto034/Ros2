@@ -1,0 +1,25 @@
+[1.022s] Invoking command in '/RosDemo/dev_ws/build/learning_node_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /RosDemo/dev_ws/build/learning_node_cpp -- -j16 -l16
+[2.568s] [ 50%] [32mBuilding CXX object CMakeFiles/node_helloworld_class.dir/src/node_helloworld_class.cpp.o[0m
+[5.092s] [100%] [32m[1mLinking CXX executable node_helloworld_class[0m
+[5.369s] [100%] Built target node_helloworld_class
+[5.402s] Invoked command in '/RosDemo/dev_ws/build/learning_node_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /RosDemo/dev_ws/build/learning_node_cpp -- -j16 -l16
+[5.424s] Invoking command in '/RosDemo/dev_ws/build/learning_node_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /RosDemo/dev_ws/build/learning_node_cpp
+[5.430s] -- Install configuration: ""
+[5.430s] -- Installing: /RosDemo/dev_ws/install/learning_node_cpp/lib/learning_node_cpp/node_helloworld_class
+[5.431s] -- Set runtime path of "/RosDemo/dev_ws/install/learning_node_cpp/lib/learning_node_cpp/node_helloworld_class" to ""
+[5.431s] -- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/ament_index/resource_index/package_run_dependencies/learning_node_cpp
+[5.432s] -- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/ament_index/resource_index/parent_prefix_path/learning_node_cpp
+[5.432s] -- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/environment/ament_prefix_path.sh
+[5.433s] -- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/environment/ament_prefix_path.dsv
+[5.433s] -- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/environment/path.sh
+[5.433s] -- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/environment/path.dsv
+[5.434s] -- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/local_setup.bash
+[5.434s] -- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/local_setup.sh
+[5.435s] -- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/local_setup.zsh
+[5.435s] -- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/local_setup.dsv
+[5.435s] -- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/package.dsv
+[5.436s] -- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/ament_index/resource_index/packages/learning_node_cpp
+[5.436s] -- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/cmake/learning_node_cppConfig.cmake
+[5.437s] -- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/cmake/learning_node_cppConfig-version.cmake
+[5.437s] -- Installing: /RosDemo/dev_ws/install/learning_node_cpp/share/learning_node_cpp/package.xml
+[5.439s] Invoked command in '/RosDemo/dev_ws/build/learning_node_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /RosDemo/dev_ws/build/learning_node_cpp

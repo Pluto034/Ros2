@@ -1,0 +1,26 @@
+[ 25%] [32mBuilding CXX object CMakeFiles/topic_helloworld_sub.dir/src/topic_helloworld_sub.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/topic_helloworld_pub.dir/src/topic_helloworld_pub.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable topic_helloworld_pub[0m
+[ 75%] Built target topic_helloworld_pub
+[100%] [32m[1mLinking CXX executable topic_helloworld_sub[0m
+[100%] Built target topic_helloworld_sub
+-- Install configuration: ""
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/lib/learning_topic_cpp/topic_helloworld_pub
+-- Set runtime path of "/RosDemo/dev_ws/install/learning_topic_cpp/lib/learning_topic_cpp/topic_helloworld_pub" to ""
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/lib/learning_topic_cpp/topic_helloworld_sub
+-- Set runtime path of "/RosDemo/dev_ws/install/learning_topic_cpp/lib/learning_topic_cpp/topic_helloworld_sub" to ""
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/ament_index/resource_index/package_run_dependencies/learning_topic_cpp
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/ament_index/resource_index/parent_prefix_path/learning_topic_cpp
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/environment/ament_prefix_path.sh
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/environment/ament_prefix_path.dsv
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/environment/path.sh
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/environment/path.dsv
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/local_setup.bash
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/local_setup.sh
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/local_setup.zsh
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/local_setup.dsv
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/package.dsv
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/ament_index/resource_index/packages/learning_topic_cpp
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/cmake/learning_topic_cppConfig.cmake
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/cmake/learning_topic_cppConfig-version.cmake
+-- Installing: /RosDemo/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/package.xml
